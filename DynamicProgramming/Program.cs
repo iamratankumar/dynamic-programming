@@ -2,4 +2,4 @@
 
 using DynamicProgramming;
 
-Console.WriteLine(Fibonacci.ComputeBottomUp(111110));
+Console.WriteLine(PossibleSum.ComputeBottomUp(15, [6, 5, 10]));

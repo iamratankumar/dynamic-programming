@@ -2,7 +2,15 @@
 
 public static class Fibonacci
 {
-    //Exponential runtime and n space time
+    
+    
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="n">10</param>
+    /// <returns></returns>
+    
+    //Exponential time complexity and n space time
     // Not suitable for larger numbers
     public static int ComputeBruteForce(int n)
     {
@@ -12,7 +20,7 @@ public static class Fibonacci
     }
     
     
-    //~n runtime and n space
+    //~n time complexity and n space
     //better performance
     //top bottom with cache
 
@@ -32,7 +40,7 @@ public static class Fibonacci
     }
     
     
-    //n runtime and space
+    //n time complexity and space
     //Bottom up approch
     //efficient
 
