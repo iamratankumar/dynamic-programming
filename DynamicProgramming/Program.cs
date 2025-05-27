@@ -2,4 +2,4 @@
 
 using DynamicProgramming;
 
-Console.WriteLine(PossibleSum.ComputeBottomUp(15, [6, 5, 10]));
+Console.WriteLine(CoinChange.ComputeBottomUp(5, [1,2,3]));

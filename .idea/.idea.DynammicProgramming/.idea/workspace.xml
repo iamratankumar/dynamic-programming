@@ -8,8 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53fbf97c-259b-4033-bdc5-614326a060f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DynamicProgramming/Fibonacci.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/Fibonacci.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DynammicProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DynammicProgramming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/Fibonacci.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/01_Fibonacci/Fibonacci.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/PossibleSum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/03_PossibleSum/PossibleSum.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DynamicProgramming/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/Tribonacci.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/02_Tribonacci/Tribonacci.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3c92637ae2e83da0a63791071c41eae291d594156062866d8621b7ed7245c/CastHelpers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DynamicProgramming/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748288603613</updated>
-      <workItem from="1748288604694" duration="8771000" />
+      <workItem from="1748288604694" duration="21910000" />
     </task>
     <servers />
   </component>
@@ -120,17 +124,17 @@
           <option name="timeStamp" value="3" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/DynamicProgramming/PossibleSum.cs</url>
-          <line>72</line>
-          <properties documentPath="C:\Users\justr\RiderProjects\DynammicProgramming\DynamicProgramming\PossibleSum.cs" containingFunctionPresentation="Method 'ComputeBottomUp'">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/04_CoinChange/CoinChange.cs</url>
+          <line>50</line>
+          <properties documentPath="C:\Users\justr\RiderProjects\DynammicProgramming\DynamicProgramming\04_CoinChange\CoinChange.cs" containingFunctionPresentation="Method 'ComputeMemoized'">
             <startOffsets>
-              <option value="1819" />
+              <option value="1407" />
             </startOffsets>
             <endOffsets>
-              <option value="1852" />
+              <option value="1455" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
